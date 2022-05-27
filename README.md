@@ -1,7 +1,7 @@
 # 🚀 about
 
 - 🤔 王小缺
-- 💬 Sot the lot of you.I do what I like~
+- 💬 某厂测试组负责人一枚。从开发转测试，目前主要从事测试相关工作。熟悉了解大数据测试，测试开发，java和python语言均可！求职中~
 - 📫 961986003@qq.com
 
 - 🚀 [小缺の域](https://hugfeature.github.io/Echo/)
